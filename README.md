@@ -1,0 +1,2 @@
+ - Studying electronic engineering at Tsinghua University.
+ - Interested in machine learning, microelectronics and quantum information science.
