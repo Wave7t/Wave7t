@@ -1,2 +1,2 @@
- - Studying electronic engineering at Tsinghua University.
- - Interested in machine learning, microelectronics and quantum information science.
+ - Undergraduate student @ Tsinghua University, Dept. of E.E.
+ - Interested in computer vision, physics and parallel computing.
