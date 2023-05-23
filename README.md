@@ -1,2 +1,2 @@
- - Undergraduate student @ Tsinghua University, Dept. of E.E.
- - Interested in computer vision, physics and parallel computing.
+ - Undergraduate student @ Dept. of E.E, Tsinghua University, Beijing.
+ - Interested in computer architecture, VLSI and artificial intelligence.
