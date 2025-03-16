@@ -1,2 +1,5 @@
- - Undergraduate student @ Dept. of E.E, Tsinghua University, Beijing.
- - Interested in computer architecture, VLSI and artificial intelligence.
+ - Ph.D student @ Dept. of E.E, Tsinghua University, Beijing.
+ - Research direction:
+   - compute-in-memory circuits & architectures
+   - edge low-power AI inference
+   - AI-aided design of analog IC
